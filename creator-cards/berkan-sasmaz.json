@@ -23,11 +23,11 @@
   "feeds": [
     {
       "type": "LinkTagRssType",
-      "url": "https://berkansasmaz.com/index.xml"
+      "url": "https://www.berkansasmaz.com/rss"
     },
     {
-      "type": "LinkTagRssType",
-      "url": "https://berkansasmaz.com/index.xml"
+      "type": "AHrefFeedType",
+      "url": "https://www.berkansasmaz.com/rss"
     }
   ]
 }
